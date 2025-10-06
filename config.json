@@ -11,16 +11,6 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
-    "cangku": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "仓库",
-      "detail": "https://hsckzy888.com"
-    },
-    "chuanmei": {
-      "api": "http://91md.me/api.php/provide/vod",
-      "name": "传媒",
-      "detail": "http://91md.me"
-    },
     "senlin": {
       "api": "https://slapibf.com/api.php/provide/vod",
       "name": "森林",
